@@ -1,8 +1,8 @@
 ## Hi, I'm Paakhi :)
 
-- I am a data scientist who is passionate about building solutions to real problems. 
-- I'm currently learning machine learning and working on my web development skills.👾
-- I'm biased toward data science, but I love learning about new technologies and their applications!
+- I am a data scientist and an ML engineer who is passionate about creating solutions to real problems.
+- I love researching up and coming technologies (especially in AI and ML) and implementing them in exciting projects.
+- I'm currently building AI-powered applications at Siemens Technology and learning new things everyday!👾
 
 #### You can follow me at [Kaggle](https://www.kaggle.com/paakhim10) to learn more about my data science-capades.🚀
 <!--
